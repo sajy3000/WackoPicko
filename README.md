@@ -1,0 +1,2 @@
+# WackoPicko
+Analisis wacko pico
